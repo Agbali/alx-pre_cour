@@ -1,0 +1,5 @@
+I Compared and Pulled Request on Github interface to bring in files from Main to Master.
+'git pull origin main' Main is a branch i created earlier.
+'git checkout main' I switched to main branch
+'git merge master' merge master and main together
+git push -u origin master 
